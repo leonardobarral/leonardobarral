@@ -11,6 +11,7 @@ Com 5 anos de experiência em Análise de dados, estou abrindo minha carreira e 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Bubble.io](https://img.shields.io/badge/-Bubble.io-000?&logo=Bubble)
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=Microservices)
