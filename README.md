@@ -28,12 +28,12 @@ Com 5 anos de experiência em Análise de dados, estou abrindo minha carreira e 
 
 
 ### 🌟 Projetos em Destaque
+- [**Aplicação Java + Spring (Projeto de Questionários Digitais)**](https://github.com/leonardobarral/personal-backend-java-specialization]) - Aplicação com abjetivo de especialização em Java (Java, Spring Framework [Boot, Security, Data, Test, Web], MySQL, H2, JWT, Docker, AWS, JUnit e Mockito).
 - [**Genesis for Health Mapper**](https://genesisforhealth.com/) - Uma aplicação para mapeamento de saúde mental em crianças, utilizando tecnologias e protocolos de mapeamento validados (Bubble.io, Power Bi, Banco de dados, APIs, Triggers, UI/UX).
-- [**Automação de ChatBot com Node-Red**](https://github.com/leonardobarral/Projeto-ChatBot) - Aplicação de estudo desenvolvido na FIAP, Chatbot de IA para atendimento ao cliente, utilizando IBM Watson.(JS, Node-RED e Machine Learning).
 - [**Bots Python Automation**](https://github.com/leonardobarral/Bots_Linkedin_NetWork) - Ferramentas de automação Web, para NetWork no Linledin (Python, Selenium).
 
 
-### 🌐 Vamos Conectar!
+### 🌐 Vamos nos Conectar!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/leonardoribeirobarral)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/leonardo_barral_)
 
