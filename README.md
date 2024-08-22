@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Leonardo Barral
 
 ### 🚀 Sobre mim
-🔹 Desenvolvedor de Software | 🌐 Entusiasta de Tecnologias Web | 🧠 Apaixonado por Inovação e Saúde Mental
+🔹 Desenvolvedor de Software | 🌐 Entusiasta de Tecnologias Web
 
-Com 5 anos de experiência em Análise de dados, estou abrindo minha carreira e T e me tronando um desenvolvedor de software, com um foco especial em criar soluções tecnológicas que fazem a diferença. Atualmente, contribuo de forma voluntária em um projeto para mapear a saúde mental de crianças no UK.
+Com 5 anos de experiência em Análise de dados, estou abrindo minha carreira e T e me tronando um desenvolvedor de software, com um foco especial em criar soluções tecnológicas que fazem a diferença. Atualmente, contribuo de forma voluntária em um projeto de mapeamento de saúde mental infantil no Reino Unido.
 
 ### 🔧 Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
