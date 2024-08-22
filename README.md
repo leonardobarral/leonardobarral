@@ -28,9 +28,9 @@ Com 5 anos de experiência em Análise de dados, estou abrindo minha carreira e 
 
 
 ### 🌟 Projetos em Destaque
-- [**Genesis for Health Mapper**](https://genesisforhealth.com/) - Uma aplicação para mapear a saúde mental de crianças, utilizando tecnologias avançadas de análise de dados.
-- [**Automação de ChatBot com Node-Red**](https://github.com/leonardobarral/Projeto-ChatBot) - Chatbot de IA para atendimento ao cliente, utilizando IBM Watson, Js e Machine Learning.
-- [**Bots Python Automation**](https://github.com/leonardobarral/Bots_Linkedin_NetWork) - Ferramentas de automação Web, para NetWork do Linledin, utilizando Python e Selenium.
+- [**Genesis for Health Mapper**](https://genesisforhealth.com/) - Uma aplicação para mapeamento de saúde mental em crianças, utilizando tecnologias e protocolos de mapeamento validados (Bubble.io, Power Bi, Banco de dados, APIs, Triggers, UI/UX).
+- [**Automação de ChatBot com Node-Red**](https://github.com/leonardobarral/Projeto-ChatBot) - Aplicação de estudo desenvolvido na FIAP, Chatbot de IA para atendimento ao cliente, utilizando IBM Watson.(JS, Node-RED e Machine Learning).
+- [**Bots Python Automation**](https://github.com/leonardobarral/Bots_Linkedin_NetWork) - Ferramentas de automação Web, para NetWork no Linledin (Python, Selenium).
 
 
 ### 🌐 Vamos Conectar!
