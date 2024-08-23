@@ -29,7 +29,7 @@ Com 5 anos de experiência em Análise de dados, estou abrindo minha carreira e 
 
 ### 🌟 Projetos em Destaque
 - [**Aplicação Java + Spring (Projeto de Questionários Digitais)**](https://github.com/leonardobarral/personal-backend-java-specialization) - Desenvolvimento de Aplicação Back-End Java com objetivo de especialização (Java, Spring Framework [Boot, Security, Data, Test, Web], MySQL, H2, JWT, Docker, AWS, JUnit e Mockito).
-- [**Genesis for Health Mapper**](https://genesisforhealth.com/) - Uma aplicação para mapeamento de saúde mental em crianças, utilizando tecnologias e protocolos de mapeamento validados (Bubble.io, Power Bi, Banco de dados, APIs, Triggers, UI/UX).
+- [**Genesis for Health Mapper**](https://genesisforhealth.com/) - Uma aplicação NO-CODE, para mapeamento de saúde mental em crianças, utilizando tecnologias e protocolos de saúde mental validados (Bubble.io, Power Bi, Banco de dados, APIs, Triggers, UI/UX).
 - [**Bots Python Automation**](https://github.com/leonardobarral/Bots_Linkedin_NetWork) - Ferramentas de automação Web, para NetWork no Linledin (Python, Selenium).
 
 
