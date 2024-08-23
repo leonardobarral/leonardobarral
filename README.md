@@ -5,21 +5,23 @@
 
 Com 5 anos de experiência em Análise de dados, estou abrindo minha carreira e T e me tronando um desenvolvedor de software, com um foco especial em criar soluções tecnológicas que fazem a diferença. Atualmente, contribuo de forma voluntária em um projeto de mapeamento de saúde mental infantil no Reino Unido.
 
-### 🔧 Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Bubble.io](https://img.shields.io/badge/-Bubble.io-000?&logo=Bubble)
 
+
+### 🔧 Tecnologias e Ferramentas
+#### Especialidades
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=Microservices)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+#### Outras ferramentas importantes
+![Microservices](https://img.shields.io/badge/-Microservices-000?&logo=Microservices)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+
+
+
 
 ### 📈 Estatísticas do GitHub
 [![Estatísticas do GitHub de Leonardo](https://github-readme-stats.vercel.app/api?username=leonardobarral&show_icons=true&theme=radical)](https://github.com/leonardobarral)
