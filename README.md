@@ -9,7 +9,7 @@ Com 5 anos de experiência em Análise de dados, estou abrindo minha carreira e 
 
 ### 🔧 Tecnologias e Ferramentas
 #### Especialidades
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
